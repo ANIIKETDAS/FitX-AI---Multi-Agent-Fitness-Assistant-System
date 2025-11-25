@@ -46,13 +46,7 @@ A fitness coach thinks differently than a nutritionist
 A medical advisor has different priorities than a shopping assistant
 Progress tracking requires analytical thinking, not creative planning
 
-Our Multi-Agent Solution:
-User Query → Orchestrator Agent (Coordinator)
-                ↓
-    ┌───────────┼───────────────┐
-    ↓           ↓        ↓      ↓         ↓
-Fitness    Nutrition  Medical  Progress  Shopping
- Coach      Expert   Advisor   Tracker  Assistant
+
 Each agent is:
 
 Specialized: Expert in their domain

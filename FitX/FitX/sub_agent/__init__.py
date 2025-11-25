@@ -1,0 +1,5 @@
+from .fitness_coach import create_fitness_coach_agent
+from .nutrition_expert import create_nutrition_expert_agent
+from .medical_advisor import create_medical_advisor_agent
+from .progress_tracker import create_progress_tracker_agent
+from .shopping_assistant import create_shopping_assistant_agent
